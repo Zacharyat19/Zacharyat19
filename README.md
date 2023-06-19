@@ -12,7 +12,7 @@
 <br />
 <br />
 
-I'm a recent graduate from Oregon State with a focus on Computer systems using a range of technologies and programming languages.
+I'm a recent graduate from Oregon State with a focus on computer systems using a range of technologies and programming languages.
 
 I enjoy learning new skills through personal projects, teaching others to expand my own knowledge, and spending time with friends.
 <br />
