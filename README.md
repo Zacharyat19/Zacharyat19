@@ -12,12 +12,12 @@
 <br />
 <br />
 
-I'm a recent graduate from Oregon State with a focus on computer systems using a range of technologies and programming languages.
+I'm an Oregon State graduate with a focus on computer systems using a range of technologies and programming languages.
 
 I enjoy learning new skills through personal projects, teaching others to expand my own knowledge, and spending time with friends.
 <br />
 
-I'm currently based in Beaverton, Oregon. Please feel free to reach out through any of the above links.
+I'm currently based in Sherwood, Oregon. Please feel free to reach out through any of the above links.
 <br />
 <br />
 
