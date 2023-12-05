@@ -17,7 +17,7 @@ I'm an Oregon State graduate with a focus on computer systems using a range of t
 I enjoy learning new skills through personal projects, teaching others to expand my own knowledge, and spending time with friends.
 <br />
 
-I'm currently based in Sherwood, Oregon. Please feel free to reach out through any of the above links.
+I'm currently based in Sherwood Oregon. Please feel free to reach out through any of the above links.
 <br />
 <br />
 
