@@ -11,7 +11,7 @@
 
 I'm an Oregon State graduate with a focus on computer systems using a range of technologies and programming languages.
 
-I enjoy learning new skills through personal projects, teaching others to expand my own knowledge, and spending time with friends.
+I enjoy learning new skills through personal projects, teaching others to expand my own knowledge, and connecting with others to share ideas and grow together.
 <br />
 
 I'm currently based in Sherwood Oregon. Please feel free to reach out through any of the above links.
@@ -25,12 +25,6 @@ I'm currently based in Sherwood Oregon. Please feel free to reach out through an
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Zacharyat19&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Zacharyat19&theme=dark&hide_border=false" /> 
-</td>
 
 <td width="50%" align="center">
 
