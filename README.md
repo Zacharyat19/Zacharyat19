@@ -9,9 +9,7 @@
 <br />
 <br />
 
-I'm an Oregon State graduate with a focus on computer systems using a range of technologies and programming languages.
-
-I enjoy learning new skills through personal projects, teaching others to expand my own knowledge, and connecting with others to share ideas and grow together.
+Creative software engineer building tailored solutions by applying C++ for high performance, low-level systems and Python for data processing, automation, and machine learning, delivering software that meets customer requirements and achieves business objectives.
 <br />
 
 I'm currently based in Sherwood Oregon. Please feel free to reach out through any of the above links.
