@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Creative software engineer building tailored solutions by applying C++ for high performance, low-level systems and Python for data processing, automation, and machine learning, delivering software that meets customer requirements and achieves business objectives.
+Oregon State Computer Science graduate with experience developing performance focused software solutions for enterprise clients. Skilled in C++, Python, Next.js, and Docker with a focus on scalability, optimization, and the software development life cycle. Strong communication and collaboration skills, excelling in cross-functional teams.
 <br />
 
 I'm currently based in Sherwood Oregon. Please feel free to reach out through any of the above links.
